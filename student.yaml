@@ -1,6 +1,6 @@
-- firstname: sivakumar
+- firstname: Pranay Golle
   lastname: m
-  email: info@joindevops.com
+  email: info@pranayblogs.com
   addresses: # list of addresses
   - type: perm
     doorNo: 143
@@ -10,9 +10,9 @@
     street: gandhiNagar
 
 
-- firstname: sivakumar
+- firstname: rohith
   lastname: m
-  email: info@joindevops.com
+  email: info@rohithiitbhu.com
   addresses: # list of addresses
   - type: perm
     doorNo: 143
