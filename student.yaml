@@ -3,10 +3,10 @@
   email: info@pranayblogs.com
   addresses: # list of addresses
   - type: perm
-    doorNo: 143
+    doorNo: no-641
     street: gandhiNagar
   - type: current
-    doorNo: 143
+    doorNo: no-641
     street: gandhiNagar
 
 
@@ -15,8 +15,8 @@
   email: info@rohithiitbhu.com
   addresses: # list of addresses
   - type: perm
-    doorNo: 143
+    doorNo: no-641
     street: gandhiNagar
   - type: current
-    doorNo: 143
+    doorNo: no-641
     street: gandhiNagar
